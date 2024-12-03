@@ -1,5 +1,5 @@
 # Isnania-Maula---Teknologi-Komunikasi-dan-Informasi
-Repository ini berisi dokumentasi dan video tutorial untuk tugas instalasi dan penggunaan Library Management System
+Repository ini berisi dokumentasi dan video tutorial untuk tugas instalasi dan penggunaan SLIMS (Senayan Library Management System)
 Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
 ## Link video : https://youtu.be/C0Hhwnfsq3M?si=f3YN5_CG0sizWE90
 - Proses Instalasi dan Input Bahan Pustaka
