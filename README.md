@@ -38,7 +38,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
      - **Pengarang**: Ir. Abdul Rahman Saleh, Dip., Lib., M.Sc.
      - **Penyunting**: 1. Drs. Sutartono, M.Hum., 2. M. Imron Rosyid, S.Ikom.
      - **Ilustrasi**: 1. Sunarti, S.Des., 2. Faisal Zamil, S.Des.
-     - **Edisi**: Edisi 1 | Cetakan: 2
+     - **Edisi**: Edisi : 1 | Cetakan : 2
      - **ISBN**: 978-602-392-383-0
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2019
@@ -53,7 +53,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
      - **Pengarang**: Wiji Suwarno, S. Pd., S.IPI., M.Hum.
      - **Penyunting**: 1. M. Imron Rosyid, S.Ikom., 2. Dra. Sri Suharmini, M.Hum.
      - **Ilustrasi**: 1. Bangun Asmo Darmanto, S.Des., 2. Nursuci Leo Saputri, A.Md.
-     - **Edisi**: Edisi: 1 | Cetakan: 1
+     - **Edisi**: Edisi : 1 | Cetakan : 1
      - **ISBN**: 978-602-392-445-5
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2019
@@ -68,7 +68,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
      - **Pengarang**: Isnania Maula
      - **Penyunting**: Zhivana A.U.
      - **Ilustrasi**: Khoirur Roihan
-     - **Edisi**: Cetakan: 10
+     - **Edisi**: Cetakan : 10
      - **ISBN**: 978-623-7046-09-7
      - **Penerbit**: Checklist
      - **Tahun Terbit**: 2023
@@ -83,7 +83,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
      - **Pengarang**: 1. Dra. Hertati Suandi, M.Si., 2. Daisy Indira Yasmine, M.Soc. Sei., 3. Diatyka Widya. P, M.A., 4. Dra. Mira Indiwara, M.A.
      - **Penyunting**: 1. Andi Sosiawan, S.Pd., 2. Drs. Wawan Ruswanto, M.Si.
      - **Ilustrasi**: 1. Aris Suryana., 2. Tim Gramedia
-     - **Edisi**: Edisi: 3 | Cetakan: 8
+     - **Edisi**: Edisi : 3 | Cetakan : 8
      - **ISBN**: 978-623-312-517-8
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2024
@@ -98,7 +98,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
      - **Pengarang**: 1. Lisda Rahayu, M.Hum., 2. Ramatun Anggraeni K, M.Si., 3. Drs. Opong Sumiati, M.Hum., 4. Dra Luthfiati Makariam, M.Hum., 5. Rika Bintari Permatasari, M.Hum.
      - **Penyunting**: 1. RS Brontolaras, S.S., 2. Majidah, S.Sos., M.I.Kom.
      - **Ilustrasi**: 1. Bangun Asmo Darmanto, S.Des., 2. Tim UI Publishing
-     - **Edisi**: Edisi 2 | Cetakan: 4
+     - **Edisi**: Edisi : 2 | Cetakan : 4
      - **ISBN**: 978-623-480-020-3
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2024
@@ -113,7 +113,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
      - **Pengarang**: Drs. Undang Sudarsana, M.M.Pd.
      - **Penyunting**: 1. RS Brontolaras, S.S., 2. Surya Adi Sasmita, S.Hum., M.A.
      - **Ilustrasi**: 1. Sunarti, S.Des., 2. Tim UI Publishing
-     - **Edisi**: Edisi 2 | Cetakan: 4
+     - **Edisi**: Edisi : 2 | Cetakan : 4
      - **ISBN**: 978-623-480-072-2
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2023
@@ -128,7 +128,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
      - **Pengarang**: Ir. Eka Kusmayadi, M.Hum.
      - **Penyunting**: 1. Brillianing Pratiwi, S.S., M.A., 2. Siti Samsiyah, S.S., M.S.i.
      - **Ilustrasi**: 1. Restu Mawardi, S.T., 2. Tim UI Publishing
-     - **Edisi**: Edisi: 3 | Cetakan: 5
+     - **Edisi**: Edisi : 3 | Cetakan : 5
      - **ISBN**: 978-623-480-472-0
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2023
@@ -142,7 +142,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
    - **Judul 9**: Pengelolaan Terbitan Berseri
      - **Pengarang**: 1. Yuyu Yulia, 2. Janti G. Sudjana
      - **Ilustrasi**: Sunarty
-     - **Edisi**: Edisi: 2 | Cetakan: 11
+     - **Edisi**: Edisi : 2 | Cetakan : 11
      - **ISBN**: 978-979-011-432-6
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2014
@@ -156,7 +156,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
    - **Judul 10**: Pengolahan Bahan Nonbuku
      - **Pengarang**: Ir. Anon Mirmani, S.S, MIM-Arc/Rec.
      - **Ilustrasi**: Zulkarnaini
-     - **Edisi**: Edisi: 2 | Cetakan: 12
+     - **Edisi**: Edisi : 2 | Cetakan : 12
      - **ISBN**: 978-797-011-466-1
      - **Penerbit**: Universitas Terbuka
      - **Tahun Terbit**: 2014
