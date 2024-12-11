@@ -4,7 +4,7 @@ Tugas 2 Sesi 5 PUST4425 Teknologi Komunikasi dan Informasi - Isnania Maula
 ## Link video : https://youtu.be/C0Hhwnfsq3M?si=f3YN5_CG0sizWE90
 - Proses Instalasi dan Input Bahan Pustaka
 ## Dokumentasi
-- **Langkah 1** : Unduh SLiMS 9 Bulan dari situs resmi SLiMS
+- **Langkah 1** : Unduh SLiMS 9 Bulian dari situs resmi SLiMS
 - **Langkah 2** : Untuk memastikan bahwa apakah proses instalasi diperoleh atau tidak silahkan cek master SLiMS yang didonwnload di property sama dengan web SLiMS tersebut
 - **Langkah 3** : Di sini kita bisa menyesuaikan dengan laptop kita, buka File Explore, klik This PC, klik kanan, dan pilih Properties
 - **Langkah 4** : Lihat di sistem berapa bit dan ternyata di sistem 64-bit 
